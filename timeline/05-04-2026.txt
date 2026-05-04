@@ -1,1 +1,2 @@
-
+Nâng cấp trải nghiệm timeline
+Timeline hỗ trợ responsive, tìm kiếm và sắp xếp theo ngày mới nhất trước.
